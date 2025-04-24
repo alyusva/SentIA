@@ -62,6 +62,10 @@ streamlit run app.py
 
 - Este proyecto es una prueba de concepto, ideal para evolucionar hacia un sistema más avanzado de análisis de emociones o apoyo psicológico.
 
+- Enlace al contenido de la carpeta model:
+  https://drive.google.com/drive/folders/12SEtWuEsUXx2p5z7Kfs3cT3SIc3_kbW-?usp=sharing
+  
+
 ## ✨ Autores
 
 Álvaro Yuste
