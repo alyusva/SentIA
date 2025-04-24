@@ -63,8 +63,11 @@ streamlit run app.py
 - Este proyecto es una prueba de concepto, ideal para evolucionar hacia un sistema más avanzado de análisis de emociones o apoyo psicológico.
 
 ## ✨ Autores
+
 Álvaro Yuste
+
 Joaquín Moreno
+
 Ángel Saenz
 
 ## 📄 Licencia
