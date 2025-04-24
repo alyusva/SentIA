@@ -1,6 +1,8 @@
 data/
 model/
 results/
+models/model.safetensors
+
 
 # Pero no ignores este archivo específico
 !data/text.csv
