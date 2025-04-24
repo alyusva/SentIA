@@ -34,8 +34,8 @@ Este repositorio forma parte de la práctica final del máster en IA & Big Data,
 ├── predictor.py            # Código para cargar y ejecutar el modelo
 ├── requirements.txt        # Dependencias del proyecto
 ├── Practica_Final.ipynb    # Notebook explicativo del desarrollo
-├── models/                 # Archivos auxiliares del modelo (tokenizer, config, etc. para los modelos de prueba del notebook)
-├── model/                  # Archivos del modelo final usado en la app (La carpeta hay que cumplimentarla con los archivos del link que se indica mas adelante)
+├── model/                  # Archivos auxiliares del modelo (tokenizer, config, etc. para los modelos de prueba del notebook)
+├── models/                 # Archivos del modelo final usado en la app (La carpeta hay que cumplimentarla con los archivos del link que se indica mas adelante)
 └── logo.png                # Logo del proyecto
 ```
 🧼 Nota: los archivos pesados (>100MB) han sido eliminados del historial para cumplir con las políticas de GitHub.
@@ -63,7 +63,8 @@ streamlit run app.py
 - Este proyecto es una prueba de concepto, ideal para evolucionar hacia un sistema más avanzado de análisis de emociones o apoyo psicológico.
 
 - Enlace al contenido de la carpeta model:
-  https://drive.google.com/drive/folders/12SEtWuEsUXx2p5z7Kfs3cT3SIc3_kbW-?usp=sharing
+  [https://drive.google.com/drive/folders/12SEtWuEsUXx2p5z7Kfs3cT3SIc3_kbW-?usp=sharing](https://drive.google.com/drive/folders/1pEXMWlSeU9CXu4eeiiR_4BRVnskNYb98?usp=drive_link)
+  
   
 
 ## ✨ Autores
