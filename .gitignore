@@ -1,0 +1,6 @@
+data/
+model/
+results/
+
+# Pero no ignores este archivo específico
+!data/text.csv
