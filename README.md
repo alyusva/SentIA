@@ -2,7 +2,7 @@
 
 Bienvenido a **SentIA**, un proyecto de procesamiento de lenguaje natural (PLN) centrado en la detección y clasificación de emociones a partir de texto.
 
-Este repositorio forma parte de la práctica final del máster en IA & Big Data, y tiene como objetivo construir una aplicación funcional de análisis de sentimientos sobre reseñas reales.
+Este repositorio forma parte de la práctica final de la asignatura de Tecnicas Avanzadas del máster en IA & Big Data (CEU), y tiene como objetivo construir una aplicación funcional de análisis de sentimientos sobre reseñas reales.
 
 ---
 
